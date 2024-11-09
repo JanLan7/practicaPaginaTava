@@ -77,7 +77,7 @@ h2{
     background-image: url(Img/tava3.jpg);
 }
 .item3{
-    background-image: url(Img/tava4.jpg);
+    background-image: url(Img/tava42.jpg);
 }
 .item4{
     background-image: url(Img/tava5.jpg);
@@ -161,7 +161,7 @@ footer redes a{
     text-decoration: none;
     position: fixed;
     right: 40px;
-    bottom: 40px;
+    bottom: 70px;
     font-size: 25px;
     text-align: center;
     border: 50%;
