@@ -6,6 +6,15 @@
     box-sizing: border-box;
     font-family: "Oswald", serif
 }
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #354c2e;
+    padding: 20px;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+    font-size: 22px;
+}
 main{
     height: 500px;
     background-image: url(Img/tava1.jpg);
